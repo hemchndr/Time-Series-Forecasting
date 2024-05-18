@@ -37,7 +37,7 @@ Forecast Alignment: Ensuring the forecasted dates correctly align with the histo
 
 Solution: We explicitly created a forecast index that starts immediately after the last date in the historical data and ensured that the forecasted values were indexed accordingly.
 
-**Usefulness of the Project**
+**Advantages of the Project**
 
 Time series forecasting is crucial in various industries for making informed business decisions. Accurate sales forecasting allows businesses to:
 Optimize inventory levels.
